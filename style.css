@@ -13,7 +13,7 @@ a {
 	position: relative;
 	display: inline-block;
 	padding: 15px 30px;
-	color: #2196f3;
+	color: #21D216;
 	text-transform: uppercase;
 	letter-spacing: 4px;
 	text-decoration: none;
@@ -25,7 +25,7 @@ a {
 a:hover {
 	color: #255784;
 	background: #2196f3;
-	box-shadow: 0 0 10px #2196f3, 0 0 40px #2196f3, 0 0 80px #2196f3;
+	box-shadow: 0 0 10px #21D216, 0 0 40px #21D216, 0 0 80px #21D216;
 	transition-delay: 1s;
 }
 
